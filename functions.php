@@ -123,11 +123,11 @@ function lint_dir(
 			try {
 				$svg = new SVG(VERSION, ENCODING);
 				$svg->load($path->getPathname());
-				if(! lint_svg($svg, $path->getBasename())) {
+				if(! lint_svg($svg, $path->getPathName())) {
 					$valid = false;
 				}
 			} catch (Throwable $e) {
-				echo "{$e->getMessage()} in {$path->getBasename()}" . PHP_EOL;
+				echo "{$e->getMessage()} in {$path->getPathname()}" . PHP_EOL;
 				$valid = false;
 			}
 		} elseif ($path->isDir() and ! in_array($path, $ignore_dirs)) {
