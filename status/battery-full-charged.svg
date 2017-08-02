@@ -1,1 +1,10 @@
-<svg height="16.001" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g color="#bebebe" font-weight="400" fill="#bebebe"><path d="M8.78 5.008a1.023 1.023 0 0 0-.47.281l-3.03 3c-.236.23-.345.583-.282.906v.813H7.468L6.282 11.28c-.214.22-.321.54-.281.844a1.464 1.464 0 0 0 0 .094V13h1a1.03 1.03 0 0 0 .719-.281l3-2.993c.183-.19.287-.454.281-.718a.87.87 0 0 0 0-.125v-.875H8.436l1.312-1.282c.215-.219.321-.54.281-.843a1.464 1.464 0 0 0 0-.094v-.781h-1a1.015 1.015 0 0 0-.25 0z" style="line-height:normal;-inkscape-font-specification:Bitstream Vera Sans;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-color:currentColor;text-transform:none;block-progression:tb;marker:none" font-size="xx-small" font-family="Bitstream Vera Sans" overflow="visible"/><path d="M5.469.006c-.492 0-.799.216-1.034.457C4.2.703 4 1.02 4 1.493V2H2v14l12.002.002v-14h-2v-.398L12 1.576a1.625 1.625 0 0 0-.416-1.013c-.236-.28-.62-.588-1.201-.555l.056-.002H5.47zm.533 2.002L10 2.01v1.994h1.998v9.994H4.002V4.002h2V2.008z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-color:currentColor;text-transform:none;block-progression:tb;isolation:auto;marker:none" overflow="visible" opacity=".5"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16.001" width="16" viewBox="0 0 16 16.001" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g color="#bebebe" font-weight="400" fill="#bebebe">
+        <path d="M8.78 5.008a1.023 1.023 0 0 0-.47.281l-3.03 3c-.236.23-.345.583-.282.906v.813h2.47L6.282 11.28c-.214.22-.321.54-.281.844a1.464 1.464 0 0 0 0 .094V13h1a1.03 1.03 0 0 0 .719-.281l3-2.993c.183-.19.287-.454.281-.718a.87.87 0 0 0 0-.125v-.875H8.436l1.312-1.282a1.03 1.03 0 0 0 .281-.843 1.464 1.464 0 0 0 0-.094v-.781h-1a1.015 1.015 0 0 0-.25 0z" font-size="xx-small" font-family="Bitstream Vera Sans" overflow="visible"/>
+        <path d="M5.469.006c-.492 0-.799.216-1.034.457C4.2.703 4 1.02 4 1.493V2H2v14l12.002.002v-14h-2v-.398L12 1.576a1.625 1.625 0 0 0-.416-1.013c-.236-.28-.62-.588-1.201-.555l.056-.002H5.47zm.533 2.002L10 2.01v1.994h1.998v9.994H4.002V4.002h2V2.008z" overflow="visible" opacity=".5"/>
+    </g>
+</svg>

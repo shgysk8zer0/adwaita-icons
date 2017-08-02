@@ -1,1 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><path d="M8 1C4.142 1 1 4.142 1 8s3.142 7 7 7 7-3.142 7-7-3.142-7-7-7zm0 1c3.317 0 6 2.683 6 6s-2.683 6-6 6c-3.318 0-6-2.683-6-6s2.682-6 6-6z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" color="#bebebe" fill="#bebebe" overflow="visible" font-family="Andale Mono"/></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <path d="M8 1C4.142 1 1 4.142 1 8s3.142 7 7 7 7-3.142 7-7-3.142-7-7-7zm0 1c3.317 0 6 2.683 6 6s-2.683 6-6 6c-3.318 0-6-2.683-6-6s2.682-6 6-6z" font-weight="400" color="#bebebe" fill="#bebebe" overflow="visible" font-family="Andale Mono"/>
+</svg>

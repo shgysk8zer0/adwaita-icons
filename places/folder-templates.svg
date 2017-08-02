@@ -1,1 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g color="#000" fill="#bebebe"><path style="marker:none" fill-rule="evenodd" overflow="visible" d="M3 9h1v1H3zM2 10h1v1H2zM3 11h1v1H3zM2 12h1v1H2zM3 13h1v1H3zM2 14h1v1H2zM4 14h1v1H4zM6 14h1v1H6zM8 14h1v1H8zM10 14h1v1h-1z"/><path d="M2.813 1c-.459.087-.821.533-.813 1v8h2V3h5v3h3v7.997h2V5.562a1.013 1.013 0 0 0-.281-.718L10.156 1.28A1.012 1.012 0 0 0 9.438 1H3a1.464 1.464 0 0 0-.094 0 1.464 1.464 0 0 0-.093 0z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" overflow="visible" font-family="Sans"/><path style="marker:none" fill-rule="evenodd" overflow="visible" d="M3 15h1v1H3zM5 15h1v1H5zM7 15h1v1H7zM9 15h1v1H9zM11 15h1v1h-1zM12 13.813h1V15h-1z"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g color="#000" fill="#bebebe">
+        <path fill-rule="evenodd" overflow="visible" d="M3 9h1v1H3zm-1 1h1v1H2zm1 1h1v1H3zm-1 1h1v1H2zm1 1h1v1H3zm-1 1h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1z"/>
+        <path d="M2.813 1A1.032 1.032 0 0 0 2 2v8h2V3h5v3h3v7.997h2V5.562a1.013 1.013 0 0 0-.281-.718L10.156 1.28A1.012 1.012 0 0 0 9.438 1H3a1.464 1.464 0 0 0-.094 0 1.464 1.464 0 0 0-.093 0z" font-weight="400" overflow="visible" font-family="Sans"/>
+        <path fill-rule="evenodd" overflow="visible" d="M3 15h1v1H3zm2 0h1v1H5zm2 0h1v1H7zm2 0h1v1H9zm2 0h1v1h-1zm1-1.187h1V15h-1z"/>
+    </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g fill="#bebebe"><path d="M0 5h2.484l2.97-3L6 2.016v12h-.475L2.485 11H0z" style="marker:none" color="#bebebe" overflow="visible"/><path d="M11 1v1.438c1.832 2.095 2.41 4.954 1.781 7.562h1.938c.596-3.14-.203-6.512-2.406-9H11zM9 3v1.813c1.41 1.843 1.41 4.531 0 6.375V13h1v-3h1.719c.636-2.402.096-5.122-1.625-7H9z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" opacity=".35" color="#000" overflow="visible" font-family="Sans"/><path d="M11 11h1.375l1.125 1.094L14.593 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.062-1.063L11 12.47V11z" style="marker:none" color="#bebebe" overflow="visible"/><path d="M9 8c0-1.257-.312-2.216-1-3H7v6h1c.672-.837 1-1.742 1-3z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" opacity=".35" color="#000" overflow="visible" font-family="Sans"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g fill="#bebebe">
+        <path d="M0 5h2.484l2.97-3L6 2.016v12h-.475L2.485 11H0z" color="#bebebe" overflow="visible"/>
+        <path d="M11 1v1.438c1.832 2.095 2.41 4.954 1.781 7.562h1.938c.596-3.14-.203-6.512-2.406-9H11zM9 3v1.813c1.41 1.843 1.41 4.531 0 6.375V13h1v-3h1.719c.636-2.402.096-5.122-1.625-7H9z" font-weight="400" opacity=".35" color="#000" overflow="visible" font-family="Sans"/>
+        <path d="M11 11h1.375l1.125 1.094L14.593 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.062-1.063L11 12.47V11z" color="#bebebe" overflow="visible"/>
+        <path d="M9 8c0-1.257-.312-2.216-1-3H7v6h1c.672-.837 1-1.742 1-3z" font-weight="400" opacity=".35" color="#000" overflow="visible" font-family="Sans"/>
+    </g>
+</svg>

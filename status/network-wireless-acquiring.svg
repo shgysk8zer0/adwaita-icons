@@ -1,1 +1,14 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g transform="translate(-161 -177)" color="#000" fill="#bebebe"><circle cx="169" cy="190" r="2" style="isolation:auto;mix-blend-mode:normal;marker:none" overflow="visible" opacity=".32"/><path d="M169 179c-2.814 0-5.172 1-7 2.586V183h1.48c1.52-1.264 3.22-2 5.52-2 2.3 0 4 .78 5.52 2H176v-1.381c-1.64-1.466-4.186-2.619-7-2.619z" style="marker:none" overflow="visible" opacity=".32"/><path d="M169 182c-1.504 0-2.86.36-3.875 1h7.688c-1.021-.627-2.35-1-3.813-1z" style="marker:none" overflow="visible" opacity=".32"/><rect height="3.008" rx="1.496" ry="1.496" style="isolation:auto;mix-blend-mode:normal;marker:none" width="3.008" x="163.492" y="184" display="block" overflow="visible"/><rect height="3.008" rx="1.496" ry="1.496" style="isolation:auto;mix-blend-mode:normal;marker:none" width="3.008" x="167.492" y="184" display="block" overflow="visible"/><rect height="3.008" rx="1.496" ry="1.496" style="isolation:auto;mix-blend-mode:normal;marker:none" width="3.008" x="171.492" y="184" display="block" overflow="visible"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-161 -177)" color="#000" fill="#bebebe">
+        <circle cx="169" cy="190" r="2" overflow="visible" opacity=".32"/>
+        <path d="M169 179c-2.814 0-5.172 1-7 2.586V183h1.48c1.52-1.264 3.22-2 5.52-2 2.3 0 4 .78 5.52 2H176v-1.381c-1.64-1.466-4.186-2.619-7-2.619z" overflow="visible" opacity=".32"/>
+        <path d="M169 182c-1.504 0-2.86.36-3.875 1h7.688c-1.021-.627-2.35-1-3.813-1z" overflow="visible" opacity=".32"/>
+        <rect height="3.008" rx="1.496" ry="1.496" width="3.008" x="163.492" y="184" display="block" overflow="visible"/>
+        <rect height="3.008" rx="1.496" ry="1.496" width="3.008" x="167.492" y="184" display="block" overflow="visible"/>
+        <rect height="3.008" rx="1.496" ry="1.496" width="3.008" x="171.492" y="184" display="block" overflow="visible"/>
+    </g>
+</svg>

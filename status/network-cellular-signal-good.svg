@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g font-weight="400" color="#000" fill="#bebebe" fill-rule="evenodd" font-family="Sans"><path d="M12 0v15h3V0h-3z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" opacity=".35" overflow="visible"/><path d="M8 3v12h3V3H8zM4 6v9h3V6H4zM0 9v6h3V9H0z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" overflow="visible"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g font-weight="400" color="#000" fill="#bebebe" fill-rule="evenodd" font-family="Sans">
+        <path d="M12 0v15h3V0h-3z" opacity=".35" overflow="visible"/>
+        <path d="M8 3v12h3V3H8zM4 6v9h3V6H4zM0 9v6h3V9H0z" overflow="visible"/>
+    </g>
+</svg>

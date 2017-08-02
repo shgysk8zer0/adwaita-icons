@@ -1,1 +1,17 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g transform="translate(-81 -317)" fill="#bebebe"><rect height="2" rx=".5" ry=".5" style="marker:none" width="3" x="81" y="324" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" width="3" x="94" y="324" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-45)" width="3" x="-174.877" y="291.742" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-45)" width="3" x="-161.877" y="291.742" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-90)" width="3" x="-333" y="88" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-90)" width="3" x="-320" y="88" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-135)" width="3" x="-300.742" y="-167.877" color="#bebebe" overflow="visible"/><rect height="2" rx=".5" ry=".5" style="marker:none" transform="rotate(-135)" width="3" x="-287.742" y="-167.877" color="#bebebe" overflow="visible"/><path d="M88.989 321.008a3.98 3.98 0 0 0-3.98 3.979c0 2.197 1.782 4.009 3.98 4.009 2.197 0 4.008-1.812 4.008-4.009s-1.811-3.98-4.008-3.98zm0 1.99c1.116 0 2.018.873 2.018 1.989a2.017 2.017 0 0 1-2.018 2.019c-1.117 0-1.99-.903-1.99-2.019s.873-1.99 1.99-1.99z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" color="#000" overflow="visible" font-family="Sans"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-81 -317)" fill="#bebebe">
+        <rect height="2" rx=".5" ry=".5" width="3" x="81" y="324" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" width="3" x="94" y="324" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-45)" width="3" x="-174.877" y="291.742" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-45)" width="3" x="-161.877" y="291.742" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-90)" width="3" x="-333" y="88" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-90)" width="3" x="-320" y="88" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-135)" width="3" x="-300.742" y="-167.877" color="#bebebe" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-135)" width="3" x="-287.742" y="-167.877" color="#bebebe" overflow="visible"/>
+        <path d="M88.989 321.008a3.98 3.98 0 0 0-3.98 3.979c0 2.197 1.782 4.009 3.98 4.009 2.197 0 4.008-1.812 4.008-4.009s-1.811-3.98-4.008-3.98zm0 1.99c1.116 0 2.018.873 2.018 1.989a2.017 2.017 0 0 1-2.018 2.019c-1.117 0-1.99-.903-1.99-2.019s.873-1.99 1.99-1.99z" font-weight="400" color="#000" overflow="visible" font-family="Sans"/>
+    </g>
+</svg>

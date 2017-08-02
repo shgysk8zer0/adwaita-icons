@@ -1,1 +1,10 @@
-<svg height="16" xmlns="http://www.w3.org/2000/svg" width="16"><title>Gnome Symbolic Icon Theme</title><g font-weight="400" fill="#bebebe" font-family="Bitstream Vera Sans"><path d="M2.188 0C.982 0 0 1.018 0 2.219V12.78C0 13.982.982 15 2.188 15h11.624C15.018 15 16 13.982 16 12.781V2.22C16 1.018 15.018 0 13.812 0H2.188zm0 2h11.624c.12 0 .188.08.188.219V12.78c0 .139-.067.219-.188.219H2.188c-.12 0-.188-.08-.188-.219V2.22C2 2.08 2.067 2 2.188 2z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Bitstream Vera Sans" color="#bebebe" overflow="visible"/><path d="M9.313 3.969a.5.5 0 0 0-.344.344L7.28 10.405 6.406 9.22A.5.5 0 0 0 6 9H3v1h2.75l1.313 1.781a.5.5 0 0 0 .875-.156l1.53-5.438 1.063 3.47A.5.5 0 0 0 11 10h2V9h-1.625L9.937 4.312a.5.5 0 0 0-.624-.343z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Bitstream Vera Sans" color="#000" overflow="visible"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g font-weight="400" fill="#bebebe" font-family="Bitstream Vera Sans">
+        <path d="M2.188 0C.982 0 0 1.018 0 2.219V12.78C0 13.982.982 15 2.188 15h11.624C15.018 15 16 13.982 16 12.781V2.22C16 1.018 15.018 0 13.812 0H2.188zm0 2h11.624c.12 0 .188.08.188.219V12.78c0 .139-.067.219-.188.219H2.188c-.12 0-.188-.08-.188-.219V2.22c0-.14.067-.22.188-.22z" color="#bebebe" overflow="visible"/>
+        <path d="M9.313 3.969a.5.5 0 0 0-.344.344L7.28 10.405 6.406 9.22A.5.5 0 0 0 6 9H3v1h2.75l1.313 1.781a.5.5 0 0 0 .875-.156l1.53-5.438 1.063 3.47A.5.5 0 0 0 11 10h2V9h-1.625L9.937 4.312a.5.5 0 0 0-.624-.343z" color="#000" overflow="visible"/>
+    </g>
+</svg>

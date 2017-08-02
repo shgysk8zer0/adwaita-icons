@@ -1,1 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g transform="translate(-181.031 -397)" fill="#bebebe"><path d="M183.5 398s-1.5 0-1.5 1.5v11.969s0 1.531 1.5 1.531h7.5v-2h-7v-11h1v-2zm8.5 0v2h1v7h2v-7.5c0-1.5-1.5-1.5-1.5-1.5z"/><rect height="4" rx=".5" ry=".5" width="4.969" x="186.031" y="397"/><path d="M192 408h1.375l1.125 1.094 1.094-1.094H197v1.469l-1.094 1.062 1.094 1.063V413h-1.438l-1.062-1.063-1.063 1.063H192v-1.406l1.063-1.063L192 409.47V408z" style="marker:none" color="#bebebe" overflow="visible"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-181.031 -397)" fill="#bebebe">
+        <path d="M183.5 398s-1.5 0-1.5 1.5v11.969s0 1.531 1.5 1.531h7.5v-2h-7v-11h1v-2zm8.5 0v2h1v7h2v-7.5c0-1.5-1.5-1.5-1.5-1.5z"/>
+        <rect height="4" rx=".5" ry=".5" width="4.969" x="186.031" y="397"/>
+        <path d="M192 408h1.375l1.125 1.094 1.094-1.094H197v1.469l-1.094 1.062 1.094 1.063V413h-1.438l-1.062-1.063-1.063 1.063H192v-1.406l1.063-1.063L192 409.47V408z" color="#bebebe" overflow="visible"/>
+    </g>
+</svg>

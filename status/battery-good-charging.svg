@@ -1,1 +1,13 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><title>Gnome Symbolic Icon Theme</title><g fill="#bebebe"><path d="M5 8v2h4l1-1 1-1zm0 3v2h3v-2z"/><path d="M5.469 0c-.49 0-.797.228-1.032.469C4.202.709 4 1.027 4 1.5V2H2v14h8v-2H4V4h2V2h4v2h2v3h2V2h-2V1.563a1.576 1.576 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03v-.03H5.47z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/><path d="M12.844 7.969a1 1 0 0 0-.594.281l-3 3a1 1 0 0 0 .719 1.719h2.562L11.25 14.25a1.016 1.016 0 1 0 1.437 1.438l3-3a1 1 0 0 0-.718-1.72h-2.563l1.281-1.28a1 1 0 0 0-.843-1.72z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/><path style="marker:none" color="#bebebe" overflow="visible" d="M14.969 10.969h1v1h-1zM8.969 11.969h1v1h-1zM12.969 7.969h1v1h-1zM10.969 14.969h1v1h-1z"/><path d="M12.125 8.406l-2 3 1.687 1.125 2-3-1.687-1.125zM13.125 11.406l-2 3 1.687 1.125 2-3-1.687-1.125z" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/></g></svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g fill="#bebebe">
+        <path d="M5 8v2h4l1-1 1-1zm0 3v2h3v-2z"/>
+        <path d="M5.469 0c-.49 0-.797.228-1.032.469C4.202.709 4 1.027 4 1.5V2H2v14h8v-2H4V4h2V2h4v2h2v3h2V2h-2v-.437a1.576 1.576 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03V0H5.47z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
+        <path d="M12.844 7.969a1 1 0 0 0-.594.281l-3 3a1 1 0 0 0 .719 1.719h2.562L11.25 14.25a1.016 1.016 0 1 0 1.437 1.438l3-3a1 1 0 0 0-.718-1.72h-2.563l1.281-1.28a1 1 0 0 0-.843-1.72z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
+        <path color="#bebebe" overflow="visible" d="M14.969 10.969h1v1h-1zm-6 1h1v1h-1zm4-4h1v1h-1zm-2 7h1v1h-1z"/>
+        <path d="M12.125 8.406l-2 3 1.687 1.125 2-3-1.687-1.125zm1 3l-2 3 1.687 1.125 2-3-1.687-1.125z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
+    </g>
+</svg>
