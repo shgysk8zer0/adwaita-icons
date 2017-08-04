@@ -4,6 +4,14 @@
 /npm-debug.log
 *.min*
 *.map
+*.ai
+*.svgz
+*.csv
+*.png
+*.jpg
+*.gif
+*.xcf
+*.psd
 
 #################
 ## Eclipse
