@@ -7,10 +7,10 @@
         <title transform="translate(405.62 -584.902)">
             go-home
         </title>
-        <path d="M565.781 180a1 1 0 0 0-.781 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-7a1 1 0 1 0-2 0v6h-8v-6a1 1 0 0 0-1.219-1z" font-weight="400" color="#000" fill="#bebebe" overflow="visible" font-family="Sans"/>
-        <path d="M570.906 176a1 1 0 0 0-.5.188l-7 5a1.006 1.006 0 1 0 1.188 1.625L571 178.25l6.406 4.563a1.006 1.006 0 1 0 1.188-1.625l-7-5a1 1 0 0 0-.688-.188z" font-weight="400" color="#000" fill="#bebebe" overflow="visible" font-family="Sans"/>
-        <path color="#bebebe" fill="#bebebe" overflow="visible" d="M569 183h3v6h-3z"/>
-        <rect height="1" rx="0" ry="1" transform="scale(-1 1)" width="1" x="-579" y="182" fill="#bebebe"/>
-        <rect height="1" rx="0" ry="1" transform="scale(-1 1)" width="1" x="-564" y="182" fill="#bebebe"/>
+        <path d="M565.781 180a1 1 0 0 0-.781 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-7a1 1 0 1 0-2 0v6h-8v-6a1 1 0 0 0-1.219-1z" overflow="visible"/>
+        <path d="M570.906 176a1 1 0 0 0-.5.188l-7 5a1.006 1.006 0 1 0 1.188 1.625L571 178.25l6.406 4.563a1.006 1.006 0 1 0 1.188-1.625l-7-5a1 1 0 0 0-.688-.188z" overflow="visible"/>
+        <path overflow="visible" d="M569 183h3v6h-3z"/>
+        <rect height="1" rx="0" ry="1" transform="scale(-1 1)" width="1" x="-579" y="182"/>
+        <rect height="1" rx="0" ry="1" transform="scale(-1 1)" width="1" x="-564" y="182"/>
     </g>
 </svg>

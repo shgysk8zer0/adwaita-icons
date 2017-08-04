@@ -3,11 +3,11 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g fill="#bebebe">
+    <g>
         <path d="M5 11.062V13h3v-2z"/>
-        <path d="M5.469 0c-.49 0-.797.228-1.032.469C4.202.709 4 1.027 4 1.5V2H2v14h8v-2H4V4h2V2h4v2h2v3h2V2h-2v-.437a1.576 1.576 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03V0H5.47z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
-        <path d="M12.844 7.969a1 1 0 0 0-.594.281l-3 3a1 1 0 0 0 .719 1.719h2.562L11.25 14.25a1.016 1.016 0 1 0 1.437 1.438l3-3a1 1 0 0 0-.718-1.72h-2.563l1.281-1.28a1 1 0 0 0-.843-1.72z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
-        <path color="#bebebe" overflow="visible" d="M14.969 10.969h1v1h-1zm-6 1h1v1h-1zm4-4h1v1h-1zm-2 7h1v1h-1z"/>
-        <path d="M12.125 8.406l-2 3 1.687 1.125 2-3-1.687-1.125zm1 3l-2 3 1.687 1.125 2-3-1.687-1.125z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
+        <path d="M5.469 0c-.49 0-.797.228-1.032.469C4.202.709 4 1.027 4 1.5V2H2v14h8v-2H4V4h2V2h4v2h2v3h2V2h-2v-.437a1.576 1.576 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03V0H5.47z" overflow="visible"/>
+        <path d="M12.844 7.969a1 1 0 0 0-.594.281l-3 3a1 1 0 0 0 .719 1.719h2.562L11.25 14.25a1.016 1.016 0 1 0 1.437 1.438l3-3a1 1 0 0 0-.718-1.72h-2.563l1.281-1.28a1 1 0 0 0-.843-1.72z" overflow="visible"/>
+        <path overflow="visible" d="M14.969 10.969h1v1h-1zm-6 1h1v1h-1zm4-4h1v1h-1zm-2 7h1v1h-1z"/>
+        <path d="M12.125 8.406l-2 3 1.687 1.125 2-3-1.687-1.125zm1 3l-2 3 1.687 1.125 2-3-1.687-1.125z" overflow="visible"/>
     </g>
 </svg>

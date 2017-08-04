@@ -3,7 +3,7 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g fill="#bebebe">
+    <g>
         <path d="M2 4c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1V8h10v2h1c.5 0 1-.5 1-1V5c0-.5-.5-1-1-1H2zm2-3v2h8V1H4z"/>
         <path d="M4 9v5h8V9H4zm1 1h6v1H5v-1zm0 2h5v1H5v-1z"/>
     </g>

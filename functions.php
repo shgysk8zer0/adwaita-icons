@@ -69,7 +69,7 @@ function lint_nodes(NodeList $nodes): Bool
 	foreach ($nodes as $node) {
 		if (! lint_node($node)) {
 			$valid = false;
-			break;
+			// break;
 		}
 	}
 	return $valid;
@@ -88,9 +88,11 @@ function lint_node(Element $node): Bool
 	} else {
 		foreach (INVALID_ATTRS as $attr) {
 			if (is_string($attr) and $node->hasAttribute($attr)) {
-				throw new Error("<{$node->tagName}> has invalid attribute, '{$attr}'");
+				$node->removeAttribute($attr);
+				echo "Removing attribute {$attr}" . PHP_EOL;
+				// throw new Error("<{$node->tagName}> has invalid attribute, '{$attr}'");
 				$valid = false;
-				break;
+				// break;
 			} elseif (is_array($attr) and $node->hasAttributeNS($attr[0], $attr[1])) {
 				throw new Error("<{$node->tagName}> has invalid attribute, '{$attr[0]}:{$attr[1]}'");
 				$valid = false;
@@ -126,6 +128,7 @@ function lint_dir(
 				if(! lint_svg($svg, $path->getPathName())) {
 					$valid = false;
 				}
+				$svg->save($path->getPathname());
 			} catch (Throwable $e) {
 				echo "{$e->getMessage()} in {$path->getPathname()}" . PHP_EOL;
 				$valid = false;

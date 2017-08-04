@@ -3,9 +3,9 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g font-weight="400" color="#000" fill="#bebebe" fill-rule="evenodd">
-        <path d="M12 0v15h3V0h-3z" opacity=".35" overflow="visible" font-family="Sans"/>
-        <path d="M8 3v12h3V3z" opacity=".35" overflow="visible" font-family="Bitstream Vera Sans"/>
-        <path d="M4 6v9h3V6H4zM0 9v6h3V9H0z" opacity=".35" overflow="visible" font-family="Sans"/>
+    <g fill-rule="evenodd">
+        <path d="M12 0v15h3V0h-3z" opacity=".35" overflow="visible"/>
+        <path d="M8 3v12h3V3z" opacity=".35" overflow="visible"/>
+        <path d="M4 6v9h3V6H4zM0 9v6h3V9H0z" opacity=".35" overflow="visible"/>
     </g>
 </svg>

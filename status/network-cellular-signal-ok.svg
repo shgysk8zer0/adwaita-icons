@@ -3,7 +3,7 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g font-weight="400" color="#000" fill="#bebebe" fill-rule="evenodd" font-family="Sans">
+    <g fill-rule="evenodd">
         <path d="M12 0v15h3V0h-3zM8 3v12h3V3H8z" opacity=".35" overflow="visible"/>
         <path d="M4 6v9h3V6H4zM0 9v6h3V9H0z" overflow="visible"/>
     </g>

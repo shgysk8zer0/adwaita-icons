@@ -3,8 +3,8 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g fill="#bebebe">
+    <g>
         <path d="M5 11v2h6v-2z"/>
-        <path d="M5.469 0c-.49 0-.797.228-1.032.469-.235.24-.437.527-.437 1V2H2v14h12V2h-2v-.437a1.577 1.577 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03V0H5.47zm.53 2h4v2h2v10H4V4h2V2z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
+        <path d="M5.469 0c-.49 0-.797.228-1.032.469-.235.24-.437.527-.437 1V2H2v14h12V2h-2v-.437a1.577 1.577 0 0 0-.406-1A1.53 1.53 0 0 0 10.437.03V0H5.47zm.53 2h4v2h2v10H4V4h2V2z" overflow="visible"/>
     </g>
 </svg>

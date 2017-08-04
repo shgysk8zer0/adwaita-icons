@@ -3,11 +3,11 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g transform="translate(-61 -567)" fill="#bebebe">
-        <rect height="4.938" ry="0" width="5" x="61" y="578" color="#bebebe" overflow="visible"/>
-        <rect height="5" ry="0" width="5" x="71" y="578" color="#bebebe" overflow="visible"/>
-        <path d="M63.031 575v3.531h1V576H73v2.531h1V575H63.031z" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
-        <path d="M68 572v3.5h1V572h-1z" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
-        <rect height="5" ry="0" width="5" x="66" y="568" color="#bebebe" overflow="visible"/>
+    <g transform="translate(-61 -567)">
+        <rect height="4.938" ry="0" width="5" x="61" y="578" overflow="visible"/>
+        <rect height="5" ry="0" width="5" x="71" y="578" overflow="visible"/>
+        <path d="M63.031 575v3.531h1V576H73v2.531h1V575H63.031z" white-space="normal" overflow="visible"/>
+        <path d="M68 572v3.5h1V572h-1z" white-space="normal" overflow="visible"/>
+        <rect height="5" ry="0" width="5" x="66" y="568" overflow="visible"/>
     </g>
 </svg>

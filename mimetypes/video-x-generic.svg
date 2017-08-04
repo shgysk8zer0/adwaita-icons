@@ -3,7 +3,7 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g transform="translate(-541 -301)" color="#bebebe" fill="#bebebe">
+    <g transform="translate(-541 -301)">
         <rect height="9" rx="1" ry="1" transform="scale(-1 1)" width="9.969" x="-555.969" y="305" overflow="visible"/>
         <path d="M546 309.47l-3.47-3.47H542v7h.5z" overflow="visible"/>
     </g>

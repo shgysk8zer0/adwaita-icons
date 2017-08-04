@@ -3,5 +3,5 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <path d="M2 1C1.167 1 .475 1.564.23 2.053-.013 2.54 0 3 0 3v10c0 .833.564 1.525 1.053 1.77.488.244.947.23.947.23h12c.833 0 1.525-.564 1.77-1.053.244-.488.23-.947.23-.947V5s.014-.459-.23-.947C15.525 3.564 14.833 3 14 3H9.414l-2-2zm0 2h4.586l2 2H14v8H2z" color="#000" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible" fill="#bebebe" fill-rule="evenodd"/>
+    <path d="M2 1C1.167 1 .475 1.564.23 2.053-.013 2.54 0 3 0 3v10c0 .833.564 1.525 1.053 1.77.488.244.947.23.947.23h12c.833 0 1.525-.564 1.77-1.053.244-.488.23-.947.23-.947V5s.014-.459-.23-.947C15.525 3.564 14.833 3 14 3H9.414l-2-2zm0 2h4.586l2 2H14v8H2z" white-space="normal" overflow="visible" fill-rule="evenodd"/>
 </svg>

@@ -3,5 +3,5 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <path d="M6.81 1.102A7 7 0 0 0 1 8a7 7 0 0 0 7 7 7 7 0 0 0 4.594-1.729A8.797 8.797 0 0 1 6 4.766a8.797 8.797 0 0 1 .81-3.664z" color="#000" overflow="visible" fill="#bebebe"/>
+    <path d="M6.81 1.102A7 7 0 0 0 1 8a7 7 0 0 0 7 7 7 7 0 0 0 4.594-1.729A8.797 8.797 0 0 1 6 4.766a8.797 8.797 0 0 1 .81-3.664z" overflow="visible"/>
 </svg>

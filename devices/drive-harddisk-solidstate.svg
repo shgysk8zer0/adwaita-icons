@@ -3,10 +3,10 @@
     <title>
         Gnome Symbolic Icon Theme
     </title>
-    <g transform="translate(-201 -567)" fill="#bebebe">
-        <path d="M204.188 567a2.197 2.197 0 0 0-2.188 2.188v11.625c0 1.2.986 2.187 2.188 2.187h9.625a2.197 2.197 0 0 0 2.187-2.188v-11.625c0-1.2-.986-2.187-2.188-2.187h-9.625zm0 2h9.625c.123 0 .187.057.187.188v11.625c0 .13-.064.187-.188.187h-9.625c-.123 0-.187-.057-.187-.188v-11.625c0-.13.064-.187.188-.187z" font-weight="400" color="#bebebe" overflow="visible" font-family="Sans"/>
-        <rect height="7" rx="0" ry="0" width="6" x="206" y="571" color="#000" overflow="visible"/>
-        <path d="M205.063 572v1H213v-1h-7.938zm0 2v1H213v-1h-7.938zm0 2v1H213v-1h-7.938z" font-weight="400" color="#000" overflow="visible" font-family="Sans"/>
-        <path d="M207 570v9h1v-9h-1zm2 0v9h1v-9h-1zm2 0v9h1v-9h-1z" font-weight="400" color="#000" overflow="visible" font-family="Sans"/>
+    <g transform="translate(-201 -567)">
+        <path d="M204.188 567a2.197 2.197 0 0 0-2.188 2.188v11.625c0 1.2.986 2.187 2.188 2.187h9.625a2.197 2.197 0 0 0 2.187-2.188v-11.625c0-1.2-.986-2.187-2.188-2.187h-9.625zm0 2h9.625c.123 0 .187.057.187.188v11.625c0 .13-.064.187-.188.187h-9.625c-.123 0-.187-.057-.187-.188v-11.625c0-.13.064-.187.188-.187z" overflow="visible"/>
+        <rect height="7" rx="0" ry="0" width="6" x="206" y="571" overflow="visible"/>
+        <path d="M205.063 572v1H213v-1h-7.938zm0 2v1H213v-1h-7.938zm0 2v1H213v-1h-7.938z" overflow="visible"/>
+        <path d="M207 570v9h1v-9h-1zm2 0v9h1v-9h-1zm2 0v9h1v-9h-1z" overflow="visible"/>
     </g>
 </svg>
