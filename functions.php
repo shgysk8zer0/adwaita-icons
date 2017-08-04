@@ -128,7 +128,6 @@ function lint_dir(
 				if(! lint_svg($svg, $path->getPathName())) {
 					$valid = false;
 				}
-				$svg->save($path->getPathname());
 			} catch (Throwable $e) {
 				echo "{$e->getMessage()} in {$path->getPathname()}" . PHP_EOL;
 				$valid = false;
