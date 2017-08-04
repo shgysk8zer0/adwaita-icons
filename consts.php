@@ -36,7 +36,6 @@ const INVALID = 1;
 const INVALID_ATTRS = [
 	'style',
 	'color',
-	'fill',
 	'enable-background',
 	'font-weight',
 	'font-family',
