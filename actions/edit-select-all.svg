@@ -1,32 +1,33 @@
-<svg width="17.067" height="17.039" version="1.1" viewBox="0 0 16 15.973852" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.039" version="1.1" viewBox="0 0 16 15.973852">
 <title>Gnome Symbolic Icon Theme</title>
-<g transform="translate(-281 -767)" fill="none" shape-rendering="auto">
-<rect x="282" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="284" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="286" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="288" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="290" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="292" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="768" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="770" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="772" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="774" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="776" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="778" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="294" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="292" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="290" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="288" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="286" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="284" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="780" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="778" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="776" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="774" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="772" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="282" y="770" width="1" height="1" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="284" y="775.1" width="4" height="4" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="289" y="775.1" width="4" height="4" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
-<rect x="284" y="770" width="9" height="4" color="#000000" color-rendering="auto" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+<g transform="translate(-281 -767)" fill="none">
+<rect x="282" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="284" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="286" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="288" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="290" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="292" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="768" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="770" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="772" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="774" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="776" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="778" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="294" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="292" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="290" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="288" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="286" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="284" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="780" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="778" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="776" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="774" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="772" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="282" y="770" width="1" height="1" image-rendering="auto" solid-color="#000000"/>
+<rect x="284" y="775.1" width="4" height="4" image-rendering="auto" solid-color="#000000"/>
+<rect x="289" y="775.1" width="4" height="4" image-rendering="auto" solid-color="#000000"/>
+<rect x="284" y="770" width="9" height="4" image-rendering="auto" solid-color="#000000"/>
 </g>
 </svg>

@@ -1,7 +1,8 @@
-<svg width="17.067" height="17.067" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" version="1.1" viewBox="0 0 16 16">
 <title>Gnome Symbolic Icon Theme</title>
 <g transform="translate(-161 -747)" fill="none">
-<rect transform="rotate(90)" x="758" y="-175" width="2" height="12" rx="0" ry="0" color="#bebebe"/>
+<rect transform="rotate(90)" x="758" y="-175" width="2" height="12" rx="0" ry="0"/>
 <path d="m169 757.44-5.7188-5.7188c-0.19587-0.19587-0.28125-0.46313-0.28125-0.71875v-1h1c0.25562 0 0.52288 0.0854 0.71875 0.28125l4.2812 4.2812 4.2812-4.2812c0.19587-0.19587 0.46313-0.28125 0.71875-0.28125h1v1c0 0.25562-0.0854 0.52288-0.28125 0.71875z"/>
 </g>
 </svg>

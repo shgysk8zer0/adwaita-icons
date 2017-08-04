@@ -1,7 +1,8 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" version="1.1" viewBox="0 0 16 16">
 <title>Gnome Symbolic Icon Theme</title>
 <g transform="translate(-41 -907)" fill="none">
-<path d="m47 907-4.0044 2.6005 2.3381 0.36339-2.0098 5.8066c2.2412-0.43289 4.3846 0.75975 4.8984 3.2527l4.6442-4.6012 1.1334 1.6949 1-5.1169-4.8138 0.19547 1.2713 1.5673-4.4575 2.7449 0.60769-4.9834 2.2154 0.45428z" color="#000000" enable-background="new"/>
-<rect x="41.994" y="917.02" width="4.9939" height="4.9939" rx="2.497" ry="2.497" color="#000000" color-rendering="auto" display="block" enable-background="new" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;paint-order:normal"/>
+<path d="m47 907-4.0044 2.6005 2.3381 0.36339-2.0098 5.8066c2.2412-0.43289 4.3846 0.75975 4.8984 3.2527l4.6442-4.6012 1.1334 1.6949 1-5.1169-4.8138 0.19547 1.2713 1.5673-4.4575 2.7449 0.60769-4.9834 2.2154 0.45428z"/>
+<rect x="41.994" y="917.02" width="4.9939" height="4.9939" rx="2.497" ry="2.497" display="block" image-rendering="auto" solid-color="#000000"/>
 </g>
 </svg>

@@ -1,15 +1,16 @@
-<svg width="17.067" height="17.067" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" version="1.1" viewBox="0 0 16 16">
 <title>Gnome Symbolic Icon Theme</title>
 <g transform="translate(-41 -767)" fill="none">
-<path d="m42.781 776a1.0001 1.0001 0 0 0 -0.78125 1v4a1.0001 1.0001 0 0 0 1 1h4a1.0001 1.0001 0 1 0 0 -2h-3v-3a1.0001 1.0001 0 0 0 -1.2188 -1z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-<path d="m47.375 775.5a1.0001 1.0001 0 0 0 -0.59375 0.28125l-4.5 4.5a1.0165 1.0165 0 1 0 1.4375 1.4375l4.5-4.5a1.0001 1.0001 0 0 0 -0.84375 -1.7188z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-<rect x="42" y="781" width="1" height="1" color="#000000" enable-background="new"/>
-<path d="m50.906 768a1.0011 1.0011 0 1 0 0.09375 2h3v3a1.0001 1.0001 0 1 0 2 0v-4a1.0001 1.0001 0 0 0 -1 -1h-4a1.0001 1.0001 0 0 0 -0.09375 0z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-<rect x="55" y="768" width="1" height="1" color="#000000" enable-background="new"/>
-<path d="m54.781 768a1.0001 1.0001 0 0 0 -0.5 0.28125l-4.5 4.4688a1.0165 1.0165 0 1 0 1.4375 1.4375l4.5-4.4688a1.0001 1.0001 0 0 0 -0.9375 -1.7188z" color="#000000" enable-background="new" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
-<rect x="42" y="776" width="1" height="1" color="#000000"/>
-<rect x="47" y="781" width="1" height="1" color="#000000"/>
-<rect x="55" y="773" width="1" height="1" color="#000000"/>
-<rect x="50" y="768" width="1" height="1" color="#000000"/>
+<path d="m42.781 776a1.0001 1.0001 0 0 0 -0.78125 1v4a1.0001 1.0001 0 0 0 1 1h4a1.0001 1.0001 0 1 0 0 -2h-3v-3a1.0001 1.0001 0 0 0 -1.2188 -1z"/>
+<path d="m47.375 775.5a1.0001 1.0001 0 0 0 -0.59375 0.28125l-4.5 4.5a1.0165 1.0165 0 1 0 1.4375 1.4375l4.5-4.5a1.0001 1.0001 0 0 0 -0.84375 -1.7188z"/>
+<rect x="42" y="781" width="1" height="1"/>
+<path d="m50.906 768a1.0011 1.0011 0 1 0 0.09375 2h3v3a1.0001 1.0001 0 1 0 2 0v-4a1.0001 1.0001 0 0 0 -1 -1h-4a1.0001 1.0001 0 0 0 -0.09375 0z"/>
+<rect x="55" y="768" width="1" height="1"/>
+<path d="m54.781 768a1.0001 1.0001 0 0 0 -0.5 0.28125l-4.5 4.4688a1.0165 1.0165 0 1 0 1.4375 1.4375l4.5-4.4688a1.0001 1.0001 0 0 0 -0.9375 -1.7188z"/>
+<rect x="42" y="776" width="1" height="1"/>
+<rect x="47" y="781" width="1" height="1"/>
+<rect x="55" y="773" width="1" height="1"/>
+<rect x="50" y="768" width="1" height="1"/>
 </g>
 </svg>
