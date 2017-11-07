@@ -1,19 +1,17 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="17.08" height="17.067" version="1.1" viewBox="0 0 16.012655 15.999979">
-<title>Gnome Symbolic Icon Theme</title>
-<g transform="translate(-44.994 -949)">
-<g transform="matrix(1 0 0 1 -112.38 189.1)">
-<title>go-home</title>
-<g transform="matrix(.026036 0 0 .026036 345.97 902.08)"/>
-</g>
-<g>
-<g>
-<path d="m47.781 954a1.0001 1.0001 0 0 0 -0.78125 1v7a1.0001 1.0001 0 0 0 1 1h10a1.0001 1.0001 0 0 0 1 -1v-7a1.0001 1.0001 0 1 0 -2 0v6h-8v-6a1.0001 1.0001 0 0 0 -1.2188 -1z"/>
-<path d="m52.906 950a1.0001 1.0001 0 0 0 -0.5 0.1875l-7 5a1.0063 1.0063 0 1 0 1.1875 1.625l6.4062-4.5625 6.4062 4.5625a1.0063 1.0063 0 1 0 1.1875 -1.625l-7-5a1.0001 1.0001 0 0 0 -0.6875 -0.1875z"/>
-<rect x="51" y="957" width="3" height="6"/>
-</g>
-<rect transform="scale(-1,1)" x="-61" y="956" width="1" height="1" rx="0" ry="1"/>
-<rect transform="scale(-1,1)" x="-46" y="956" width="1" height="1" rx="0" ry="1"/>
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.08" height="17.067" viewBox="0 0 16.012655 15.999979">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-157.374 -759.9)">
+        <title>
+            go-home
+        </title>
+    </g>
+    <g transform="translate(-44.994 -949)">
+        <path d="M47.781 954a1 1 0 0 0-.781 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-7a1 1 0 1 0-2 0v6h-8v-6a1 1 0 0 0-1.22-1z"/>
+        <path d="M52.906 950a1 1 0 0 0-.5.188l-7 5a1.006 1.006 0 1 0 1.188 1.625L53 952.25l6.406 4.563a1.006 1.006 0 1 0 1.187-1.625l-7-5a1 1 0 0 0-.687-.188z"/>
+        <path d="M51 957h3v6h-3z"/>
+        <rect transform="scale(-1 1)" x="-61" y="956" width="1" height="1" rx="0" ry="1"/>
+        <rect transform="scale(-1 1)" x="-46" y="956" width="1" height="1" rx="0" ry="1"/>
+    </g>
 </svg>

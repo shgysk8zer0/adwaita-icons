@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" version="1.1" viewBox="0 0 16 16">
-<title>Gnome Symbolic Icon Theme</title>
-<g transform="translate(-140 -606)">
-<path d="m144 610v8h8v-8z"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <path d="M4 4v8h8V4z"/>
 </svg>

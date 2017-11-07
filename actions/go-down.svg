@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" version="1.1" viewBox="0 0 16 16">
-<title>Gnome Symbolic Icon Theme</title>
-<g transform="translate(-181 -747)">
-<path d="m189 759.44-5.7188-5.7187c-0.19587-0.1959-0.28125-0.4632-0.28125-0.7188v-1h1c0.25562 0 0.52288 0.085 0.71875 0.2813l4.2812 4.2812 4.2812-4.2812c0.19587-0.1959 0.46313-0.2813 0.71875-0.2813h1v1c0 0.2556-0.0854 0.5229-0.28125 0.7188z"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <path d="M8 12.44L2.281 6.721A1.01 1.01 0 0 1 2 6.003v-1h1c.256 0 .523.085.719.28l4.28 4.282 4.282-4.281A1.01 1.01 0 0 1 13 5.003h1v1c0 .255-.086.522-.281.718z"/>
 </svg>
