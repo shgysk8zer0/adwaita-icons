@@ -11,7 +11,7 @@ use const \Consts\{
 };
 use \FilesystemIterator;
 use \RecursiveDirectoryIterator as Directory;
-use \DomDocument as SVG;
+use \DOMDocument as SVG;
 use \DOMElement as Element;
 use \DOMNodelist as NodeList;
 use \SplFileObject as File;
