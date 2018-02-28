@@ -51,7 +51,6 @@ const INVALID_ATTRS = [
  */
 const REQUIRED_ATTRS = [
 	'viewBox',
-	'version',
 	'xmlns',
 ];
 
@@ -70,4 +69,3 @@ const INVALID_TAGS = [
 const EXTS = [
 	'svg',
 ];
-
