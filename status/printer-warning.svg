@@ -1,9 +1,5 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
-    <path class="warning" d="M8.875 8A.863.863 0 0 0 8 8.875v6.25c0 .492.382.875.875.875h6.25a.863.863 0 0 0 .875-.875v-6.25A.863.863 0 0 0 15.125 8h-6.25zM11 9h2v4h-2V9zm0 5h2v1h-2v-1z" overflow="visible"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
+    <path d="M8.875 8A.863.863 0 0 0 8 8.875v6.25c0 .492.382.875.875.875h6.25a.863.863 0 0 0 .875-.875v-6.25A.863.863 0 0 0 15.125 8h-6.25zM11 9h2v4h-2V9zm0 5h2v1h-2v-1z" overflow="visible"/>
     <path d="M2 4c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1V8h4c.118-.54.551-.938 1.125-.938H15V5c0-.5-.5-1-1-1H2zm2-3v2h8V1H4z"/>
     <path d="M4 9v5h3V9z"/>
 </svg>

@@ -1,17 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="17.08" height="17.067" viewBox="0 0 16.012655 15.999979">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
-    <g transform="translate(-157.374 -759.9)">
-        <title>
-            go-home
-        </title>
-    </g>
-    <g transform="translate(-44.994 -949)">
-        <path d="M47.781 954a1 1 0 0 0-.781 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-7a1 1 0 1 0-2 0v6h-8v-6a1 1 0 0 0-1.22-1z"/>
-        <path d="M52.906 950a1 1 0 0 0-.5.188l-7 5a1.006 1.006 0 1 0 1.188 1.625L53 952.25l6.406 4.563a1.006 1.006 0 1 0 1.187-1.625l-7-5a1 1 0 0 0-.687-.188z"/>
-        <path d="M51 957h3v6h-3z"/>
-        <rect transform="scale(-1 1)" x="-61" y="956" width="1" height="1" rx="0" ry="1"/>
-        <rect transform="scale(-1 1)" x="-46" y="956" width="1" height="1" rx="0" ry="1"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.08" height="17.067" viewBox="0 0 16.013 16">
+    <path d="M47.781 954a1 1 0 0 0-.781 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-7a1 1 0 1 0-2 0v6h-8v-6a1 1 0 0 0-1.22-1z"/>
+    <path d="M52.906 950a1 1 0 0 0-.5.188l-7 5a1.006 1.006 0 1 0 1.188 1.625L53 952.25l6.406 4.563a1.006 1.006 0 1 0 1.187-1.625l-7-5a1 1 0 0 0-.687-.188z"/>
+    <path d="M51 957h3v6h-3z"/>
+    <rect width="1" height="1" x="-61" y="956" rx="0" ry="1"/>
+    <rect width="1" height="1" x="-46" y="956" rx="0" ry="1"/>
 </svg>
