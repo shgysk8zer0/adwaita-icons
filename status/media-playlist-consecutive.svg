@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
-    <path d="M1.031 7v2h12.97V7H1.03z" overflow="visible"/>
-    <path d="M11.781 5a1 1 0 0 0-.5 1.719L12.563 8 11.28 9.281a1.016 1.016 0 1 0 1.438 1.438l2-2L15.406 8l-.687-.719-2-2A1 1 0 0 0 11.78 5z" overflow="visible"/>
-    <path d="M11 5h1v1h-1zm0 5h1v1h-1z" overflow="visible"/>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g>
+        <path d="M1.031 7v2h12.97V7H1.03z" overflow="visible"/>
+        <path d="M11.781 5a1 1 0 0 0-.5 1.719L12.563 8 11.28 9.281a1.016 1.016 0 1 0 1.438 1.438l2-2L15.406 8l-.687-.719-2-2A1 1 0 0 0 11.78 5z" overflow="visible"/>
+        <path overflow="visible" d="M11 5h1v1h-1zm0 5h1v1h-1z"/>
+    </g>
 </svg>

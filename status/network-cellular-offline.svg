@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
-    <path fill-rule="evenodd" d="M12 0v9.938h3V0h-3zM8 3v12h2l.014-5.063H11V3zM4 6v9h3V6H4zM0 9v6h3V9H0z" opacity=".35" overflow="visible"/>
-    <path d="M11 11h1.375l1.125 1.094L14.594 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.063-1.063L11 12.47V11z" overflow="visible"/>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g>
+        <path d="M12 0v9.938h3V0h-3zM8 3v12h2l.014-5.063H11V3zM4 6v9h3V6H4zM0 9v6h3V9H0z" opacity=".35" fill-rule="evenodd" overflow="visible"/>
+        <path d="M11 11h1.375l1.125 1.094L14.594 11H16v1.469l-1.094 1.062L16 14.594V16h-1.438L13.5 14.937 12.437 16H11v-1.406l1.063-1.063L11 12.47V11z" overflow="visible"/>
+    </g>
 </svg>

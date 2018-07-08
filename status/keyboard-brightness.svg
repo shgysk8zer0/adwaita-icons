@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
-    <rect width="2.972" height="2" x="101" y="327" overflow="visible" rx=".472" ry=".5"/>
-    <rect width="3.016" height="2" x="113.984" y="327" overflow="visible" rx=".5" ry=".5"/>
-    <rect width="3.016" height="2" x="-149.873" y="308.006" overflow="visible" rx=".5" ry=".5"/>
-    <rect width="3.016" height="2" x="-304.019" y="-155.857" overflow="visible" rx=".5" ry=".5"/>
-    <rect width="3" height="2" x="-323" y="108" overflow="visible" rx=".5" ry=".5"/>
-    <path d="M107.245 326a.428.428 0 0 0-.374.261l-.837 2.217c-.101.234.127.528.404.522a25395.185 25395.185 0 0 0 5.134 0c.277.006.505-.288.404-.522l-.837-2.217c-.072-.193-.337-.306-.548-.235-.213.07-.82.261-1.586.261a5.147 5.147 0 0 1-1.586-.26.465.465 0 0 0-.174-.027z" overflow="visible"/>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-101 -317)">
+        <rect height="2" rx=".472" ry=".5" width="2.972" x="101" y="327" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" width="3.016" x="113.984" y="327" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-45)" width="3.016" x="-149.873" y="308.006" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-135)" width="3.016" x="-304.019" y="-155.857" overflow="visible"/>
+        <rect height="2" rx=".5" ry=".5" transform="rotate(-90)" width="3" x="-323" y="108" overflow="visible"/>
+        <path d="M107.245 326a.428.428 0 0 0-.374.261l-.837 2.217c-.101.234.127.528.404.522a25395.185 25395.185 0 0 0 5.134 0c.277.006.505-.288.404-.522l-.837-2.217c-.072-.193-.337-.306-.548-.235-.213.07-.82.261-1.586.261a5.147 5.147 0 0 1-1.586-.26.465.465 0 0 0-.174-.027z" overflow="visible"/>
+    </g>
 </svg>

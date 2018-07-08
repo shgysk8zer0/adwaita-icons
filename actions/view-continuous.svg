@@ -1,7 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
-    <rect width="4" height="2" x="-151" y="878" opacity=".35" rx=".375" ry=".375"/>
-    <rect width="4" height="2" x="-151" y="867" opacity=".35" rx=".375" ry=".375"/>
-    <rect width="4" height="2" x="-151" y="881" opacity=".35" rx=".375" ry=".375"/>
-    <rect width="4" height="2" x="-151" y="870" opacity=".35" rx=".375" ry=".375"/>
-    <path d="M-155 874h12v2h-12z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16.000336">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="matrix(-1 0 0 1 -141 -867)">
+        <rect x="-151" y="878" width="4" height="2" rx=".375" ry=".375" opacity=".35"/>
+        <rect x="-151" y="867" width="4" height="2" rx=".375" ry=".375" opacity=".35"/>
+        <rect x="-151" y="881" width="4" height="2" rx=".375" ry=".375" opacity=".35"/>
+        <rect x="-151" y="870" width="4" height="2" rx=".375" ry=".375" opacity=".35"/>
+        <path d="M-155 874h12v2h-12z"/>
+    </g>
 </svg>

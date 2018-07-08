@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
-    <rect width="2" height="2" x="202" y="870" rx=".385" ry=".379"/>
-    <rect width="2" height="2" x="202" y="874.02" rx=".385" ry=".379"/>
-    <rect width="2" height="2" x="202" y="878" rx=".385" ry=".379"/>
-    <path d="M208 870v4h-3.063l5.125 5.781 5.125-5.781H212v-4z"/>
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-201 -867)">
+        <rect x="202" y="870" width="2" height="2" rx=".385" ry=".379"/>
+        <rect x="202" y="874.02" width="2" height="2" rx=".385" ry=".379"/>
+        <rect x="202" y="878" width="2" height="2" rx=".385" ry=".379"/>
+        <path d="M208 870v4h-3.063l5.125 5.781 5.125-5.781H212v-4z"/>
+    </g>
 </svg>

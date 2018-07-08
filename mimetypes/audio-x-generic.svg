@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
     <path d="M5 1v7.344A3.574 3.574 0 0 0 3.5 8 3.515 3.515 0 0 0 0 11.5C0 13.421 1.579 15 3.5 15A3.517 3.517 0 0 0 7 11.531V4h6v4.344A3.573 3.573 0 0 0 11.5 8 3.515 3.515 0 0 0 8 11.5c0 1.921 1.579 3.5 3.5 3.5 1.9 0 3.465-1.546 3.5-3.437V1z" overflow="visible"/>
 </svg>

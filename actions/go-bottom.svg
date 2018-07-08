@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
-    <rect width="2" height="12" x="758" y="-175" rx="0" ry="0"/>
-    <path d="M169 757.44l-5.719-5.719a1.01 1.01 0 0 1-.281-.719v-1h1c.256 0 .523.086.719.282l4.28 4.28 4.282-4.28a1.01 1.01 0 0 1 .719-.282h1v1c0 .256-.086.523-.281.72z"/>
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
+    <g transform="translate(-161 -747)">
+        <rect transform="rotate(90)" x="758" y="-175" width="2" height="12" rx="0" ry="0"/>
+        <path d="M169 757.44l-5.719-5.719a1.01 1.01 0 0 1-.281-.719v-1h1c.256 0 .523.086.719.282l4.28 4.28 4.282-4.28a1.01 1.01 0 0 1 .719-.282h1v1c0 .256-.086.523-.281.72z"/>
+    </g>
 </svg>

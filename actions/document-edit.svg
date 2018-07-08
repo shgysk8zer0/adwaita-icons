@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" version="1" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16" version="1">
+    <title>
+        Gnome Symbolic Icon Theme
+    </title>
     <g fill-rule="evenodd">
         <path d="M2.68 10.29l5.85-5.85 3 2.999-5.83 5.873-4.027 1.072z"/>
         <path d="M11.64 1.67c-.2 0-.401.077-.555.23l-1.77 1.768 3.054 3.053 1.769-1.77a.783.783 0 0 0 0-1.11l-1.943-1.94a.782.782 0 0 0-.555-.231z" solid-color="#000000"/>
