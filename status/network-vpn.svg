@@ -1,11 +1,7 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
     <g transform="translate(-221 -237)">
         <path d="M228 247v3h2v-3h-2zm-5 3v2h12v-2h-12z" overflow="visible"/>
-        <rect x="225" y="242" height="6" ry="0" width="8" overflow="visible"/>
+        <rect width="8" height="6" x="225" y="242" overflow="visible" ry="0"/>
         <path d="M229 238c-1.645 0-3 1.355-3 3v3h6v-3c0-1.645-1.355-3-3-3zm0 2c.564 0 1 .436 1 1v1h-2v-1c0-.564.436-1 1-1z" overflow="visible"/>
     </g>
 </svg>

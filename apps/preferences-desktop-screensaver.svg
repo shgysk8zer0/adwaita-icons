@@ -1,13 +1,9 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
     <g transform="translate(-262 -381)">
         <path d="M274.109 387c.62.75.995 1.71.995 2.76a4.344 4.344 0 0 1-4.344 4.344c-1.05 0-2.01-.376-2.76-.995a5.055 5.055 0 0 0 4.932 3.891 5.068 5.068 0 0 0 5.068-5.068 5.055 5.055 0 0 0-3.891-4.932z" overflow="visible"/>
-        <rect x="267.79" y="383.79" rx=".721" ry=".721" height="1.442" width="1.442" overflow="visible"/>
-        <rect x="271.813" y="384.813" rx=".699" ry=".699" height="1.398" width="1.398" overflow="visible"/>
-        <rect x="268.79" y="386.79" rx=".721" ry=".721" height="1.442" width="1.442" overflow="visible"/>
+        <rect width="1.442" height="1.442" x="267.79" y="383.79" overflow="visible" rx=".721" ry=".721"/>
+        <rect width="1.398" height="1.398" x="271.813" y="384.813" overflow="visible" rx=".699" ry=".699"/>
+        <rect width="1.442" height="1.442" x="268.79" y="386.79" overflow="visible" rx=".721" ry=".721"/>
         <path d="M265.505 389.505l-.745-2.255-2.255-.745 2.255-.745.745-2.255.745 2.255 2.255.745-2.255.745z" overflow="visible"/>
     </g>
 </svg>

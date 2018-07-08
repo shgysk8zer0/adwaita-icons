@@ -1,16 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
     <g transform="translate(-61 -887)">
-        <rect x="64" y="890" width="2" height="2" rx="1" ry="1"/>
-        <rect x="68" y="890" width="2" height="2" rx="1" ry="1"/>
-        <rect x="72" y="890" width="2" height="2" rx="1" ry="1"/>
-        <rect x="64" y="894" width="2" height="2" rx="1" ry="1"/>
-        <rect x="68" y="894" width="2" height="2" rx="1" ry="1"/>
-        <rect x="72" y="894" width="2" height="2" rx="1" ry="1"/>
-        <rect x="64" y="898" width="2" height="2" rx="1" ry="1"/>
-        <rect x="68" y="898" width="2" height="2" rx="1" ry="1"/>
-        <rect x="72" y="898" width="2" height="2" rx="1" ry="1"/>
+        <rect width="2" height="2" x="64" y="890" rx="1" ry="1"/>
+        <rect width="2" height="2" x="68" y="890" rx="1" ry="1"/>
+        <rect width="2" height="2" x="72" y="890" rx="1" ry="1"/>
+        <rect width="2" height="2" x="64" y="894" rx="1" ry="1"/>
+        <rect width="2" height="2" x="68" y="894" rx="1" ry="1"/>
+        <rect width="2" height="2" x="72" y="894" rx="1" ry="1"/>
+        <rect width="2" height="2" x="64" y="898" rx="1" ry="1"/>
+        <rect width="2" height="2" x="68" y="898" rx="1" ry="1"/>
+        <rect width="2" height="2" x="72" y="898" rx="1" ry="1"/>
     </g>
 </svg>

@@ -1,12 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16.014" height="16.014" viewBox="0 0 16.014 16.014" version="1">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
-    <g>
-        <path d="M12.906 1A1 1 0 0 0 12 2v13a1 1 0 1 0 2 0V3h1a1 1 0 1 0 0-2h-2a1 1 0 0 0-.094 0z" overflow="visible"/>
-        <path d="M13 6v3h3V6h-3zm1 1h1v1h-1V7zm-1 3v3h3v-3h-3zm1 1h1v1h-1v-1zM0 4v12h10v-2h1v-2H8v2H2V6h3V4H0z" overflow="visible"/>
-        <path d="M6 1l5 4H8v4.531H6z"/>
-        <path d="M7.995 9.505a2.495 2.495 0 1 1-4.99 0 2.495 2.495 0 1 1 4.99 0z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16.014" height="16.014" version="1" viewBox="0 0 16.014 16.014">
+    <path d="M12.906 1A1 1 0 0 0 12 2v13a1 1 0 1 0 2 0V3h1a1 1 0 1 0 0-2h-2a1 1 0 0 0-.094 0z" overflow="visible"/>
+    <path d="M13 6v3h3V6h-3zm1 1h1v1h-1V7zm-1 3v3h3v-3h-3zm1 1h1v1h-1v-1zM0 4v12h10v-2h1v-2H8v2H2V6h3V4H0z" overflow="visible"/>
+    <path d="M6 1l5 4H8v4.531H6z"/>
+    <path d="M7.995 9.505a2.495 2.495 0 1 1-4.99 0 2.495 2.495 0 1 1 4.99 0z"/>
 </svg>

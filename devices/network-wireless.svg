@@ -1,23 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16" version="1">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
-    <defs>
-        <clipPath id="c">
-            <path stroke-width="2" overflow="visible" d="M26.999 221.502h1.876v4.878h-1.876z"/>
-        </clipPath>
-        <clipPath id="b">
-            <path stroke-width="2" overflow="visible" d="M26.966 221.282h2.898v5.313h-2.898z"/>
-        </clipPath>
-        <clipPath id="a">
-            <path stroke-width="2" overflow="visible" d="M26.85 220.75h3.825v6.375H26.85z"/>
-        </clipPath>
-    </defs>
-    <g>
-        <path clip-path="url(#a)" d="M27.063 220.5a1.164 1.164 0 0 0-.688 2c.8.8.8 2.075 0 2.875A1.164 1.164 0 1 0 28 227a4.334 4.334 0 0 0 0-6.125 1.164 1.164 0 0 0-.938-.375z" transform="matrix(0 -.78431 .94118 0 -202.765 31.059)" overflow="visible"/>
-        <path clip-path="url(#b)" d="M27.063 221.125a.555.555 0 0 0-.25.938 2.657 2.657 0 0 1 0 3.75.555.555 0 1 0 .78.78 3.775 3.775 0 0 0 0-5.312.555.555 0 0 0-.53-.156z" transform="matrix(0 -1.72549 1.88219 0 -413.493 54.529)" overflow="visible"/>
-        <path clip-path="url(#c)" d="M27.125 221.313a.362.362 0 0 0-.219.593.362.362 0 0 0 .032.031 2.825 2.825 0 0 1 0 4 .362.362 0 1 0 .5.5 3.531 3.531 0 0 0 0-5 .362.362 0 0 0-.313-.125z" transform="matrix(0 -2.66667 2.86852 0 -634.374 78)" overflow="visible"/>
-        <path d="M10 13a2 2 0 1 1-4 0 2 2 0 1 1 4 0z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1" viewBox="0 0 16 16">
+    <path d="M4.765 9.833a1.096.913 0 0 0 1.883.54c.752-.628 1.952-.628 2.705 0a1.096.913 0 1 0 1.53-1.275 4.08 3.4 0 0 0-5.765 0 1.096.913 0 0 0-.353.736z" overflow="visible"/>
+    <path d="M2.706 7.832a1.045.958 0 0 0 1.766.431 5.001 4.585 0 0 1 7.058 0 1.045.958 0 1 0 1.468-1.345 7.105 6.514 0 0 0-9.998 0 1.045.958 0 0 0-.294.914z" overflow="visible"/>
+    <path d="M.467 5.667a1.038.965 0 0 0 1.7.584 1.038.965 0 0 0 .09-.086 8.104 7.533 0 0 1 11.474 0 1.038.965 0 1 0 1.434-1.333 10.129 9.416 0 0 0-14.343 0 1.038.965 0 0 0-.358.835z" overflow="visible"/>
+    <path d="M10 13a2 2 0 1 1-4 0 2 2 0 1 1 4 0z"/>
 </svg>

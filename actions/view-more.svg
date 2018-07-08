@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="17.067" height="17.067" viewBox="0 0 16 16">
-    <title>
-        Gnome Symbolic Icon Theme
-    </title>
     <g transform="translate(-121 -867)">
-        <rect x="127" y="867" width="4" height="4" rx=".385" ry=".502"/>
-        <rect x="127" y="873" width="4" height="4" rx=".385" ry=".502"/>
-        <rect x="127" y="879" width="4" height="4" rx=".385" ry=".502"/>
+        <rect width="4" height="4" x="127" y="867" rx=".385" ry=".502"/>
+        <rect width="4" height="4" x="127" y="873" rx=".385" ry=".502"/>
+        <rect width="4" height="4" x="127" y="879" rx=".385" ry=".502"/>
     </g>
 </svg>
