@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/shgysk8zer0/adwaita-icons#readme",
   "devDependencies": {
-    "svgo": "^1.0.5"
+    "svgo": "^3.0.2"
   }
 }
